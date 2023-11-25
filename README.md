@@ -3,4 +3,5 @@
 
 ## Choices diagram
 
-![Diagram](https://github.com/liviumocanup/illusion-of-promise/blob/main/diagram.png)
+![Diagram1](https://github.com/liviumocanup/illusion-of-promise/blob/main/diagrams/day1.png)
+![Diagram2](https://github.com/liviumocanup/illusion-of-promise/blob/main/diagrams/day2.png)

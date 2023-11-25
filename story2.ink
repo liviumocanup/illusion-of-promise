@@ -247,8 +247,8 @@ How to Apply: Simply send a brief email expressing your interest to globalmoneym
 Act quickly, as spots are filling up fast! Don't miss this once-in-a-lifetime opportunity for high earnings and a carefree lifestyle!
 "
 
-* [Keep in mind]
  -> RedFlag2
+ 
 * [Go to sleep]
 - -> Morning2
 
@@ -385,6 +385,11 @@ At the clothes factory they meet the manager. She learns about the welcoming wor
 {CharY} decides to accept the job offer at the clothes factory. She starts working there, providing for her family, feeling content, and finding happiness in her job.
 {CharY} finds satisfaction and happiness in her new job.
 # IMAGE: images/good-ending.jpeg
+
+
+<strong><span style="color:green;">The good ending!</span></strong>
+
+In the factory, {CharY} found a supportive work family, where she felt valued and part of a team. Her job not only helped support her family but also gave her confidence and new chances to learn and grow. Working there made each day fulfilling and gave {CharY} hope for a better future.
 
 -> END
 
@@ -540,16 +545,15 @@ The person's demeanor becomes more insistent.
 "Here, take this. Meet our driver here at this hour. You're going to travel with him at our base. We're also accommodate you there for a while." She smiles. "You're going to like it".
 
 {CharY} takes the paper and stares at it. "Fine, I'll be there."
--> FuckingVan
+-> KidnapVan
 
-//////////// UNITIT ASTA CU GO TO SCHOOL DAY 2
 === Refusal ===
 // GO TO SCHOOL 2
 Nothing about this experience felt right to {CharY}. As she goes back to her house, she thinks about what's really important in her life. Something in her encourages her to go to school.
 -> AtSchool
 
 
-=== FuckingVan ===
+=== KidnapVan ===
 {CharY} stands nervously in the shadows, eyes scanning the alley for any sign of the driver. After a tense moment, a nondescript van pulls up, and the driver, beckons her inside.
 
 "{CharY}, hop in. We don't have much time. We have to pick up some other people on the way." 
@@ -557,5 +561,10 @@ Nothing about this experience felt right to {CharY}. As she goes back to her hou
 As the cold wind blows, something unnverving wakes up in {CharY}. She tries to ignore it. She must think of her family, of her new life. Picking up her bag, she slowly opens the car door, and, with a sigh, gets in.
 
 # IMAGE: images/van2.jpeg
+
+<strong><span style="color:red;">The bad ending!</span></strong>
+
+Failing to see the red flags in the interview and meeting with the recruiter, {CharY} fell into the trap of commercial trafficking.
+Accepting a vague job offer with suspiciously good benefits lead {CharY} to a very bad situation.
 
 -> END
